@@ -1,0 +1,18 @@
+<!-- html code goes here -->
+<html>
+    <head>
+        <title>Fruits</title>
+        </head>
+        <body>      
+            <div class="fruits">
+            <span class="fruits-fruit">Banana </span>
+             <span class="fruits-fruit"> Apple </span>
+            <span class="fruits-fruit"> Orange </span>
+            <span class="fruits-fruit"> Pear</span>
+            <span class="fruits-fruit"> Nectarine</span>
+
+            <p>1.Turn one word in the sentence to a color.</p>
+            <p>2.Make this word rainbow colored:Magic</p>
+            </div>
+            </body>
+</html>
