@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+    <head>
+    <title>Semantic IMDb</title>
+    </head>
+    <body>
+        <header>
+            <selec> Movie</selection>
+            </header>
+            
+                <nav>
+                    
+                        <link id="nav-actor" href="#actor">actor  </link>
+                        <link id="nav-quote" href="#quote">quote </link>
+                        
+                </nav>
+            
+            <details>
+            <summary>About the Movie</summary>
+            <p>it is a wonderful movie</p>
+            </details>
+            
+            <main>
+            
+            
+            <section id='actor'>
+                
+                <h1>What is the about the actors</h1>
+                <p>pradhes main role of the movie</p>
+            </section>
+            <section id="quote">
+                <h1>Which one your  favurite quote in the movie</h1>
+                <p>my favourite quote is anuksha</p>
+                </section>
+                </main>
+                
+                <aside>
+                    <h1>About the IMDb rating</h1>
+                    <p>2 crores</p>
+                    </side>
+                    <side>
+                        <h1>Releasing date</h1>
+                        <p>16-01-2020</p>
+                        </aside>
+                        <footer >
+                            <p>Produced by: Rajamoli</p>"
+                            </footer>
+    </body>
+    </html>
