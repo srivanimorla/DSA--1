@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title> First session of html</title>
+    </head>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <th> Roll number</th>
+                    <th> Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td>1002</td>
+                <td>Siri</td>
+                </tr>
+                <tr>
+                    <td>1004</td>
+                    <td>Nani</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
