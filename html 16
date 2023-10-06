@@ -1,0 +1,54 @@
+<html>
+    <body>
+        
+        <form method="POST">
+        <div>
+            <label for="name"> Name</label>
+            <input type="text" id ="name" required/>
+        </div>
+        <div>
+            <label for="email">Email</label>
+
+            <input type ="email" id="email" required/>
+        </div>
+        <div>
+        <label for="gender">M</label> 
+        <input type="radio"name="gender" required>
+         <label for="gender">F</label>
+        <input type="radio"name ="gender" required>
+        
+        </div>
+        <div>
+        
+        
+        
+            <label for="cars">Choose your latop brand</label>
+            <select id="cars"name="cars" required/>
+            
+            <option> BMW </option>
+            <option> Audi </option>
+            <option> Mercedez </option>
+            </select>
+        </div>
+        <div>
+        <label for="age"> Age</label>
+        <input type="number"id ="age" required/>
+        </div>
+        <!--<div>
+            <label for ="portfolio">portfoilo </label>
+            <input type="url"id="portfoilo">
+            </div>-->
+        <div>
+        
+        <label for="dob">DOB</label>
+        <input type="date" id="dob" required/>
+        </div>
+        <div>
+        <label for="password"> Password</label>
+        <input type="password"id="password" required/>
+        </div>
+<!--<label for="submit"></lable>-->
+        <button type="submit"> Submit</button>
+        </form>
+    </body>
+</html>
