@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <audio controls loop autoplay>
+            <source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/Let%20Her%20Go.mp3" type="audio/mp3">
+
+        </audio loop>
+<audio controls loop>
+<source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/Perfect%20.mp3" type="audio/mp3">
+
+</audio>
+<audio controls loop>
+
+<source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/Senorita.mp3" type="audio/mp3">
+
+    </audio>
+    <video controls loop>
+        <source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/endgame.mp4" type="video/mp4">
+
+    </video>
+    <video controls loop>
+        <source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/ghoul.mp4" type="video/mp4">
+
+    </video>
+    <video controls loop>
+        <source src="https://raw.githubusercontent.com/Newton-School/audio-video-HTML-cypress-boilerplate/main/public/tenet.mp4" type="video/mp4">
+
+    </video>
+    </body>
+    </html>
